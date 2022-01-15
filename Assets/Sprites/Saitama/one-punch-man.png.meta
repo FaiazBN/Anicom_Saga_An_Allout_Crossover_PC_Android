@@ -1,0 +1,1184 @@
+fileFormatVersion: 2
+guid: a09f6fe30b8e9ee439522cf9018313f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1641748278623223953
+    second: one-punch-man_0
+  - first:
+      213: 3197560861578001840
+    second: one-punch-man_1
+  - first:
+      213: 9058126785799871637
+    second: one-punch-man_2
+  - first:
+      213: -5011626605770114286
+    second: one-punch-man_3
+  - first:
+      213: 2286259374080429568
+    second: one-punch-man_4
+  - first:
+      213: -1549538357074300008
+    second: one-punch-man_5
+  - first:
+      213: 2755141535287010274
+    second: one-punch-man_6
+  - first:
+      213: 6609546887338680823
+    second: one-punch-man_7
+  - first:
+      213: 8150063437192347074
+    second: one-punch-man_8
+  - first:
+      213: -1633636485711754919
+    second: one-punch-man_9
+  - first:
+      213: -1335823709344428982
+    second: one-punch-man_10
+  - first:
+      213: -7397556679367937366
+    second: one-punch-man_11
+  - first:
+      213: 1717308982207713234
+    second: one-punch-man_12
+  - first:
+      213: -903480366834356869
+    second: one-punch-man_13
+  - first:
+      213: 7312664276528644727
+    second: one-punch-man_14
+  - first:
+      213: 6369776507424754834
+    second: one-punch-man_15
+  - first:
+      213: 1685869780638584718
+    second: one-punch-man_16
+  - first:
+      213: -57073746675812323
+    second: one-punch-man_17
+  - first:
+      213: 5393465387901568160
+    second: one-punch-man_18
+  - first:
+      213: 4016263632754615755
+    second: one-punch-man_19
+  - first:
+      213: 8446358380670251095
+    second: one-punch-man_20
+  - first:
+      213: 7527424619689119445
+    second: one-punch-man_21
+  - first:
+      213: 712460805281166774
+    second: one-punch-man_22
+  - first:
+      213: 8765947606390508830
+    second: one-punch-man_23
+  - first:
+      213: 1990289374800296986
+    second: one-punch-man_24
+  - first:
+      213: 1831982738231682452
+    second: one-punch-man_25
+  - first:
+      213: -7675708328155029525
+    second: one-punch-man_26
+  - first:
+      213: 2211831177201299565
+    second: one-punch-man_27
+  - first:
+      213: -1820897706916932026
+    second: one-punch-man_28
+  - first:
+      213: 3623155820779036157
+    second: one-punch-man_29
+  - first:
+      213: 2940772738631730973
+    second: one-punch-man_30
+  - first:
+      213: 5594133364930877407
+    second: one-punch-man_31
+  - first:
+      213: -8827938583168161986
+    second: one-punch-man_32
+  - first:
+      213: 8027987088100132638
+    second: one-punch-man_33
+  - first:
+      213: 1847244957582870891
+    second: one-punch-man_34
+  - first:
+      213: -6997848394838381812
+    second: one-punch-man_35
+  - first:
+      213: -1902101582664209945
+    second: one-punch-man_36
+  - first:
+      213: 2901717194130009864
+    second: one-punch-man_37
+  - first:
+      213: -47231771639423533
+    second: one-punch-man_38
+  - first:
+      213: -8758199115094034374
+    second: one-punch-man_39
+  - first:
+      213: 7141839843183678555
+    second: one-punch-man_40
+  - first:
+      213: -7952046868974683907
+    second: one-punch-man_41
+  - first:
+      213: 1011791404510651792
+    second: one-punch-man_42
+  - first:
+      213: -1551698600193559493
+    second: one-punch-man_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: one-punch-man_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2450
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fbd0293a65739e0800000000000000
+      internalID: -1641748278623223953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_1
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2450
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd7c0689a4006c20800000000000000
+      internalID: 3197560861578001840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_2
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2450
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c5d06d15ee4bd70800000000000000
+      internalID: 9058126785799871637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_3
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2450
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bfc20a720237ab0800000000000000
+      internalID: -5011626605770114286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2205
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e8870a9cc6abf10800000000000000
+      internalID: 2286259374080429568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2205
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8937eb4f21fee7ae0800000000000000
+      internalID: -1549538357074300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_6
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2205
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3e4b401aa3c3620800000000000000
+      internalID: 2755141535287010274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_7
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2205
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f16c1a00e3d9bb50800000000000000
+      internalID: 6609546887338680823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1960
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdbfb6e387da1170800000000000000
+      internalID: 8150063437192347074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1960
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959880985482459e0800000000000000
+      internalID: -1633636485711754919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_10
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1960
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c0bf1f963367de0800000000000000
+      internalID: -1335823709344428982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_11
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1960
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2b470e469965990800000000000000
+      internalID: -7397556679367937366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1715
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df041eab6b15d710800000000000000
+      internalID: 1717308982207713234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1715
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d6c49a4613673f0800000000000000
+      internalID: -903480366834356869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_14
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1715
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772cd245a6dcb7560800000000000000
+      internalID: 7312664276528644727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_15
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1715
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c4ea72cfdf56850800000000000000
+      internalID: 6369776507424754834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1470
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f478422a9656710800000000000000
+      internalID: 1685869780638584718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_17
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1470
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d183363dabb353ff0800000000000000
+      internalID: -57073746675812323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_18
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1470
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4cc3ac13079da40800000000000000
+      internalID: 5393465387901568160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_19
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1470
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5a8a2be72acb730800000000000000
+      internalID: 4016263632754615755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1225
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7507e7d423e773570800000000000000
+      internalID: 8446358380670251095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_21
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1225
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de89124fc8c67860800000000000000
+      internalID: 7527424619689119445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_22
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1225
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b53c2fd35b23e900800000000000000
+      internalID: 712460805281166774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_23
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1225
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d879e67e6e6a970800000000000000
+      internalID: 8765947606390508830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cb43134adee9b10800000000000000
+      internalID: 1990289374800296986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_25
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 980
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49562fa18928c6910800000000000000
+      internalID: 1831982738231682452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_26
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 980
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befdfc471f76a7590800000000000000
+      internalID: -7675708328155029525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_27
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 980
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60b734acb002be10800000000000000
+      internalID: 2211831177201299565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64694eede2fdab6e0800000000000000
+      internalID: -1820897706916932026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_29
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 735
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd5c6fc509084230800000000000000
+      internalID: 3623155820779036157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_30
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 735
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d170c439939bfc820800000000000000
+      internalID: 2940772738631730973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_31
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 735
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd79dda08aa52ad40800000000000000
+      internalID: 5594133364930877407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37eb4b81acdc7580800000000000000
+      internalID: -8827938583168161986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_33
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 490
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1781a7f8b3296f60800000000000000
+      internalID: 8027987088100132638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_34
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 490
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69cbd5708bb2a910800000000000000
+      internalID: 1847244957582870891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_35
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 490
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bee9906f5a2ee90800000000000000
+      internalID: -6997848394838381812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9679630b06a95e0800000000000000
+      internalID: -1902101582664209945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_37
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 245
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f23c20a68f44820800000000000000
+      internalID: 2901717194130009864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_38
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 245
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddd15534f2385ff0800000000000000
+      internalID: -47231771639423533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_39
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 245
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38fda8ce40a47680800000000000000
+      internalID: -8758199115094034374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54d1bf8f79ec1360800000000000000
+      internalID: 7141839843183678555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_41
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8b1812187a4a190800000000000000
+      internalID: -7952046868974683907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_42
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095a6a4fbea9a0e00800000000000000
+      internalID: 1011791404510651792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one-punch-man_43
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 540
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34fdf82852477ae0800000000000000
+      internalID: -1551698600193559493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

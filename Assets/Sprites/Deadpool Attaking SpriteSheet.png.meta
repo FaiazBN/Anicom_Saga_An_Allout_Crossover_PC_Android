@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: d5c2b87c042e38d4a9e06b988cb85e72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 59548067606011559
+    second: Deadpool Attaking SpriteSheet_0
+  - first:
+      213: -3803945955618056838
+    second: Deadpool Attaking SpriteSheet_1
+  - first:
+      213: 8936455546981049379
+    second: Deadpool Attaking SpriteSheet_2
+  - first:
+      213: 3639504859672503959
+    second: Deadpool Attaking SpriteSheet_3
+  - first:
+      213: -1375600632799967516
+    second: Deadpool Attaking SpriteSheet_4
+  - first:
+      213: 6895778379049763761
+    second: Deadpool Attaking SpriteSheet_5
+  - first:
+      213: 2491853159980804005
+    second: Deadpool Attaking SpriteSheet_6
+  - first:
+      213: 7581919327223319862
+    second: Deadpool Attaking SpriteSheet_7
+  - first:
+      213: 4004255631170088937
+    second: Deadpool Attaking SpriteSheet_8
+  - first:
+      213: -3913344078765177830
+    second: Deadpool Attaking SpriteSheet_9
+  - first:
+      213: 1975755075702892959
+    second: Deadpool Attaking SpriteSheet_10
+  - first:
+      213: -5202718571655585476
+    second: Deadpool Attaking SpriteSheet_11
+  - first:
+      213: -1336486577060845016
+    second: Deadpool Attaking SpriteSheet_12
+  - first:
+      213: 2185434766567708220
+    second: Deadpool Attaking SpriteSheet_13
+  - first:
+      213: -8658805094910267680
+    second: Deadpool Attaking SpriteSheet_14
+  - first:
+      213: -499323136044824008
+    second: Deadpool Attaking SpriteSheet_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deadpool Attaking SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 534
+        width: 156
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae97b8e6ae83d000800000000000000
+      internalID: 59548067606011559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deadpool Attaking SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 534
+        width: 156
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a751a9abe4ba53bc0800000000000000
+      internalID: -3803945955618056838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deadpool Attaking SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 534
+        width: 156
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324efdcf8faa40c70800000000000000
+      internalID: 8936455546981049379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deadpool Attaking SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 534
+        width: 156
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796661f036e128230800000000000000
+      internalID: 3639504859672503959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deadpool Attaking SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 156
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6c7214382e8ece0800000000000000
+      internalID: -1375600632799967516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deadpool Attaking SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 356
+        width: 156
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3841d76e9b2bf50800000000000000
+      internalID: 6895778379049763761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deadpool Attaking SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 356
+        width: 156
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a727112f37d49220800000000000000
+      internalID: 2491853159980804005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deadpool Attaking SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 356
+        width: 156
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d80d61573683960800000000000000
+      internalID: 7581919327223319862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deadpool Attaking SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 156
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef20c5f749f19730800000000000000
+      internalID: 4004255631170088937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deadpool Attaking SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 178
+        width: 156
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14c25d4b4201b9c0800000000000000
+      internalID: -3913344078765177830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deadpool Attaking SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 178
+        width: 156
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99227af5ca4b6b10800000000000000
+      internalID: 1975755075702892959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deadpool Attaking SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 178
+        width: 156
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c312426360b3cc7b0800000000000000
+      internalID: -5202718571655585476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deadpool Attaking SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 156
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ae5370a88d37de0800000000000000
+      internalID: -1336486577060845016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deadpool Attaking SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 156
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c369e0d5759345e10800000000000000
+      internalID: 2185434766567708220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deadpool Attaking SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 156
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eee78a74aeb5d780800000000000000
+      internalID: -8658805094910267680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deadpool Attaking SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 156
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a0ae7d04c0219f0800000000000000
+      internalID: -499323136044824008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

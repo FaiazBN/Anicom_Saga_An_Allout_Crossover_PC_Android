@@ -1,0 +1,2816 @@
+fileFormatVersion: 2
+guid: 19182d150af40cd459a34168fe851679
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1243743172884222530
+    second: InnocentLameKingbird-max-1mb_0
+  - first:
+      213: 1082235341891524660
+    second: InnocentLameKingbird-max-1mb_1
+  - first:
+      213: -7694977395381583007
+    second: InnocentLameKingbird-max-1mb_2
+  - first:
+      213: 6789431485906393720
+    second: InnocentLameKingbird-max-1mb_3
+  - first:
+      213: -787979919579668486
+    second: InnocentLameKingbird-max-1mb_4
+  - first:
+      213: 8287352924828878603
+    second: InnocentLameKingbird-max-1mb_5
+  - first:
+      213: 4449706670901906257
+    second: InnocentLameKingbird-max-1mb_6
+  - first:
+      213: 3445268715395029538
+    second: InnocentLameKingbird-max-1mb_7
+  - first:
+      213: 4374345566202665340
+    second: InnocentLameKingbird-max-1mb_8
+  - first:
+      213: 4293999915659252759
+    second: InnocentLameKingbird-max-1mb_9
+  - first:
+      213: 2816934307524324930
+    second: InnocentLameKingbird-max-1mb_10
+  - first:
+      213: -7631239946018891442
+    second: InnocentLameKingbird-max-1mb_11
+  - first:
+      213: 4056150216374490161
+    second: InnocentLameKingbird-max-1mb_12
+  - first:
+      213: -962803494080162948
+    second: InnocentLameKingbird-max-1mb_13
+  - first:
+      213: -6849336939435103763
+    second: InnocentLameKingbird-max-1mb_14
+  - first:
+      213: -3677332255572818220
+    second: InnocentLameKingbird-max-1mb_15
+  - first:
+      213: 7506025531353479844
+    second: InnocentLameKingbird-max-1mb_16
+  - first:
+      213: -8823645069486371632
+    second: InnocentLameKingbird-max-1mb_17
+  - first:
+      213: 7986839611251868614
+    second: InnocentLameKingbird-max-1mb_18
+  - first:
+      213: 4755535968259297748
+    second: InnocentLameKingbird-max-1mb_19
+  - first:
+      213: -7654159146771343462
+    second: InnocentLameKingbird-max-1mb_20
+  - first:
+      213: -8843352852789678517
+    second: InnocentLameKingbird-max-1mb_21
+  - first:
+      213: -8617293281422379513
+    second: InnocentLameKingbird-max-1mb_22
+  - first:
+      213: 858794663911749781
+    second: InnocentLameKingbird-max-1mb_23
+  - first:
+      213: 3683800351008518003
+    second: InnocentLameKingbird-max-1mb_24
+  - first:
+      213: -5650825505552064531
+    second: InnocentLameKingbird-max-1mb_25
+  - first:
+      213: 3658901446486072568
+    second: InnocentLameKingbird-max-1mb_26
+  - first:
+      213: -2814993836887523717
+    second: InnocentLameKingbird-max-1mb_27
+  - first:
+      213: 5913440739181970769
+    second: InnocentLameKingbird-max-1mb_28
+  - first:
+      213: -7455520529563823081
+    second: InnocentLameKingbird-max-1mb_29
+  - first:
+      213: -1877881709137889373
+    second: InnocentLameKingbird-max-1mb_30
+  - first:
+      213: 3508630514728990256
+    second: InnocentLameKingbird-max-1mb_31
+  - first:
+      213: -1131493096066199832
+    second: InnocentLameKingbird-max-1mb_32
+  - first:
+      213: 9040177324987573337
+    second: InnocentLameKingbird-max-1mb_33
+  - first:
+      213: 8301798034344268726
+    second: InnocentLameKingbird-max-1mb_34
+  - first:
+      213: 2647457737534410411
+    second: InnocentLameKingbird-max-1mb_35
+  - first:
+      213: 998555259883051256
+    second: InnocentLameKingbird-max-1mb_36
+  - first:
+      213: 7987804184380342526
+    second: InnocentLameKingbird-max-1mb_37
+  - first:
+      213: -6530255724719223210
+    second: InnocentLameKingbird-max-1mb_38
+  - first:
+      213: 2919308565609381162
+    second: InnocentLameKingbird-max-1mb_39
+  - first:
+      213: -8049718860141217618
+    second: InnocentLameKingbird-max-1mb_40
+  - first:
+      213: 2435172404677603272
+    second: InnocentLameKingbird-max-1mb_41
+  - first:
+      213: -7445711960892964592
+    second: InnocentLameKingbird-max-1mb_42
+  - first:
+      213: -202223907077858176
+    second: InnocentLameKingbird-max-1mb_43
+  - first:
+      213: 8958365243267770321
+    second: InnocentLameKingbird-max-1mb_44
+  - first:
+      213: 5891316423931866009
+    second: InnocentLameKingbird-max-1mb_45
+  - first:
+      213: 8033835296434894739
+    second: InnocentLameKingbird-max-1mb_46
+  - first:
+      213: 4451673760347908823
+    second: InnocentLameKingbird-max-1mb_47
+  - first:
+      213: -6578882563282942921
+    second: InnocentLameKingbird-max-1mb_48
+  - first:
+      213: 6830547367800928480
+    second: InnocentLameKingbird-max-1mb_49
+  - first:
+      213: -8431226629860066125
+    second: InnocentLameKingbird-max-1mb_50
+  - first:
+      213: -8259165859468237096
+    second: InnocentLameKingbird-max-1mb_51
+  - first:
+      213: 6353895020281992413
+    second: InnocentLameKingbird-max-1mb_52
+  - first:
+      213: -302987745847236269
+    second: InnocentLameKingbird-max-1mb_53
+  - first:
+      213: 6230960695844034512
+    second: InnocentLameKingbird-max-1mb_54
+  - first:
+      213: 5831941208259287155
+    second: InnocentLameKingbird-max-1mb_55
+  - first:
+      213: -4716499589821922918
+    second: InnocentLameKingbird-max-1mb_56
+  - first:
+      213: -7226406780656808169
+    second: InnocentLameKingbird-max-1mb_57
+  - first:
+      213: 1988249305795071753
+    second: InnocentLameKingbird-max-1mb_58
+  - first:
+      213: -2409904723174942518
+    second: InnocentLameKingbird-max-1mb_59
+  - first:
+      213: -3521008767595453491
+    second: InnocentLameKingbird-max-1mb_60
+  - first:
+      213: -7171300584614436316
+    second: InnocentLameKingbird-max-1mb_61
+  - first:
+      213: 3009275284579843361
+    second: InnocentLameKingbird-max-1mb_62
+  - first:
+      213: 2543201336630694220
+    second: InnocentLameKingbird-max-1mb_63
+  - first:
+      213: 390168574421681110
+    second: InnocentLameKingbird-max-1mb_64
+  - first:
+      213: -6983294508711068138
+    second: InnocentLameKingbird-max-1mb_65
+  - first:
+      213: -5013975891453234285
+    second: InnocentLameKingbird-max-1mb_66
+  - first:
+      213: -8383744185597703185
+    second: InnocentLameKingbird-max-1mb_67
+  - first:
+      213: -2916920439103929233
+    second: InnocentLameKingbird-max-1mb_68
+  - first:
+      213: -5770457825517441218
+    second: InnocentLameKingbird-max-1mb_69
+  - first:
+      213: 3490836843863325271
+    second: InnocentLameKingbird-max-1mb_70
+  - first:
+      213: 3097831218220434647
+    second: InnocentLameKingbird-max-1mb_71
+  - first:
+      213: -7120208915887117869
+    second: InnocentLameKingbird-max-1mb_72
+  - first:
+      213: 110073318474512913
+    second: InnocentLameKingbird-max-1mb_73
+  - first:
+      213: 1591025123033573577
+    second: InnocentLameKingbird-max-1mb_74
+  - first:
+      213: 4039328277504741760
+    second: InnocentLameKingbird-max-1mb_75
+  - first:
+      213: 8668229298487607998
+    second: InnocentLameKingbird-max-1mb_76
+  - first:
+      213: -6491543926454244767
+    second: InnocentLameKingbird-max-1mb_77
+  - first:
+      213: 1951802297011041384
+    second: InnocentLameKingbird-max-1mb_78
+  - first:
+      213: 507911776421537935
+    second: InnocentLameKingbird-max-1mb_79
+  - first:
+      213: -5590087032117842810
+    second: InnocentLameKingbird-max-1mb_80
+  - first:
+      213: 8382938543113880613
+    second: InnocentLameKingbird-max-1mb_81
+  - first:
+      213: 3754345587479404815
+    second: InnocentLameKingbird-max-1mb_82
+  - first:
+      213: 8695362047606849844
+    second: InnocentLameKingbird-max-1mb_83
+  - first:
+      213: -7574396020398331413
+    second: InnocentLameKingbird-max-1mb_84
+  - first:
+      213: -3798170679809081487
+    second: InnocentLameKingbird-max-1mb_85
+  - first:
+      213: -2653150923098064961
+    second: InnocentLameKingbird-max-1mb_86
+  - first:
+      213: 7047764083066204155
+    second: InnocentLameKingbird-max-1mb_87
+  - first:
+      213: -5071379516002581241
+    second: InnocentLameKingbird-max-1mb_88
+  - first:
+      213: -3678248955011715215
+    second: InnocentLameKingbird-max-1mb_89
+  - first:
+      213: 6704535799245541484
+    second: InnocentLameKingbird-max-1mb_90
+  - first:
+      213: 8325985981341558678
+    second: InnocentLameKingbird-max-1mb_91
+  - first:
+      213: 7509883209611607812
+    second: InnocentLameKingbird-max-1mb_92
+  - first:
+      213: 8969534591296639710
+    second: InnocentLameKingbird-max-1mb_93
+  - first:
+      213: 7499815808142618189
+    second: InnocentLameKingbird-max-1mb_94
+  - first:
+      213: -6851759112939890299
+    second: InnocentLameKingbird-max-1mb_95
+  - first:
+      213: -7364316577601180046
+    second: InnocentLameKingbird-max-1mb_96
+  - first:
+      213: -2454658631275089086
+    second: InnocentLameKingbird-max-1mb_97
+  - first:
+      213: 1918917925222654720
+    second: InnocentLameKingbird-max-1mb_98
+  - first:
+      213: 5291956747897554455
+    second: InnocentLameKingbird-max-1mb_99
+  - first:
+      213: 735696651780712383
+    second: InnocentLameKingbird-max-1mb_100
+  - first:
+      213: -5710008132470862230
+    second: InnocentLameKingbird-max-1mb_101
+  - first:
+      213: -2528987032782910449
+    second: InnocentLameKingbird-max-1mb_102
+  - first:
+      213: -4415461998047891190
+    second: InnocentLameKingbird-max-1mb_103
+  - first:
+      213: 6597233410256315437
+    second: InnocentLameKingbird-max-1mb_104
+  - first:
+      213: -1651934447391021259
+    second: InnocentLameKingbird-max-1mb_105
+  - first:
+      213: 5033555365819019878
+    second: InnocentLameKingbird-max-1mb_106
+  - first:
+      213: 2780438190110988157
+    second: InnocentLameKingbird-max-1mb_107
+  - first:
+      213: 3933572759779178405
+    second: InnocentLameKingbird-max-1mb_108
+  - first:
+      213: -1173697097029295194
+    second: InnocentLameKingbird-max-1mb_109
+  - first:
+      213: -6893300005885801898
+    second: InnocentLameKingbird-max-1mb_110
+  - first:
+      213: -5451403423982874440
+    second: InnocentLameKingbird-max-1mb_111
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3653
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd2b648c265dbee0800000000000000
+      internalID: -1243743172884222530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3653
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43851dc3f4fd40f00800000000000000
+      internalID: 1082235341891524660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3653
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163ce9124d2f53590800000000000000
+      internalID: -7694977395381583007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3653
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a9d48e6f7e83e50800000000000000
+      internalID: 6789431485906393720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3653
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff105320788015f0800000000000000
+      internalID: -787979919579668486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3653
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0748bca397920370800000000000000
+      internalID: 8287352924828878603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3653
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b4bc144a880cd30800000000000000
+      internalID: 4449706670901906257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3653
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a13e094ad00df20800000000000000
+      internalID: 3445268715395029538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3372
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79905ebd1cc4bc30800000000000000
+      internalID: 4374345566202665340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3372
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7145d663c2a579b30800000000000000
+      internalID: 4293999915659252759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3372
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e2993f3d2c71720800000000000000
+      internalID: 2816934307524324930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3372
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49d5cd73b3681690800000000000000
+      internalID: -7631239946018891442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_12
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3372
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13410a2a1275a4830800000000000000
+      internalID: 4056150216374490161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_13
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3372
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73d8d2c25f63a2f0800000000000000
+      internalID: -962803494080162948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_14
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3372
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9620ac75442f0a0800000000000000
+      internalID: -6849336939435103763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_15
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3372
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d60f710ccd77fcc0800000000000000
+      internalID: -3677332255572818220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3091
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa365fb372ca2860800000000000000
+      internalID: 7506025531353479844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3091
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc43291f8d1c8580800000000000000
+      internalID: -8823645069486371632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_18
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3091
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3cfa27f44f6de60800000000000000
+      internalID: 7986839611251868614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3091
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d150b864ce0ff140800000000000000
+      internalID: 4755535968259297748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_20
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3091
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97136a3fc6f6c590800000000000000
+      internalID: -7654159146771343462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_21
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3091
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ea80a3f69164580800000000000000
+      internalID: -8843352852789678517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_22
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3091
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706757bba69396880800000000000000
+      internalID: -8617293281422379513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_23
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3091
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598f57d523d0beb00800000000000000
+      internalID: 858794663911749781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2810
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f6251d6ec7f1330800000000000000
+      internalID: 3683800351008518003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2810
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def1add542c3491b0800000000000000
+      internalID: -5650825505552064531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2810
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc17f9da7707c230800000000000000
+      internalID: 3658901446486072568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_27
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2810
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eb76315022fe8d0800000000000000
+      internalID: -2814993836887523717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_28
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2810
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155c3438503c01250800000000000000
+      internalID: 5913440739181970769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_29
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2810
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71457b3549ba88890800000000000000
+      internalID: -7455520529563823081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_30
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2810
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7f1a4f88c60f5e0800000000000000
+      internalID: -1877881709137889373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_31
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2810
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03674861dd821b030800000000000000
+      internalID: 3508630514728990256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2529
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eeca2726012c40f0800000000000000
+      internalID: -1131493096066199832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_33
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2529
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954ec625169257d70800000000000000
+      internalID: 9040177324987573337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2529
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b35022d359e53370800000000000000
+      internalID: 8301798034344268726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_35
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2529
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae099319c8adb420800000000000000
+      internalID: 2647457737534410411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_36
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2529
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f85de1e7b49bdd00800000000000000
+      internalID: 998555259883051256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_37
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2529
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef08e51a5916ade60800000000000000
+      internalID: 7987804184380342526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_38
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2529
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e46a3640fdf55a0800000000000000
+      internalID: -6530255724719223210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_39
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2529
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2df6ea5ca7738820800000000000000
+      internalID: 2919308565609381162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2248
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8358f8857a94090800000000000000
+      internalID: -8049718860141217618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2248
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf64a366687bc120800000000000000
+      internalID: 2435172404677603272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_42
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2248
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011091fab648ba890800000000000000
+      internalID: -7445711960892964592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_43
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2248
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c588d8d6e813df0800000000000000
+      internalID: -202223907077858176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_44
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2248
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d76e2da9b1825c70800000000000000
+      internalID: 8958365243267770321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_45
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2248
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b22e3f21922c150800000000000000
+      internalID: 5891316423931866009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_46
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2248
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3973ff313aaed7f60800000000000000
+      internalID: 8033835296434894739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_47
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2248
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dae675f2b587cd30800000000000000
+      internalID: 4451673760347908823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1967
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73442844a2d13b4a0800000000000000
+      internalID: -6578882563282942921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_49
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1967
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8f04724aaface50800000000000000
+      internalID: 6830547367800928480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_50
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1967
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc706afc044efa80800000000000000
+      internalID: -8431226629860066125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_51
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1967
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6ac55e86c816d80800000000000000
+      internalID: -8259165859468237096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_52
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1967
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd418084bd19d2850800000000000000
+      internalID: 6353895020281992413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_53
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1967
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359aa7d10429bcbf0800000000000000
+      internalID: -302987745847236269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_54
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1967
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d754356db1d87650800000000000000
+      internalID: 6230960695844034512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_55
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1967
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378d14541a73fe050800000000000000
+      internalID: 5831941208259287155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1686
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a918365bc90ab8eb0800000000000000
+      internalID: -4716499589821922918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_57
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1686
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f0a74f155a6bb90800000000000000
+      internalID: -7226406780656808169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_58
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1686
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f05dc953ea79b10800000000000000
+      internalID: 1988249305795071753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_59
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1686
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac81f982c6c4e8ed0800000000000000
+      internalID: -2409904723174942518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_60
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1686
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3ef645e2dd22fc0800000000000000
+      internalID: -3521008767595453491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_61
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1686
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422618c0d1c6a7c90800000000000000
+      internalID: -7171300584614436316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_62
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1686
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d7eb07de713c920800000000000000
+      internalID: 3009275284579843361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_63
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1686
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41db2624244b4320800000000000000
+      internalID: 2543201336630694220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1405
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3cce050482a6500800000000000000
+      internalID: 390168574421681110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1405
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e3756b4aa561f90800000000000000
+      internalID: -6983294508711068138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_66
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1405
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393be8ded77ca6ab0800000000000000
+      internalID: -5013975891453234285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_67
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1405
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febc3b90515f6ab80800000000000000
+      internalID: -8383744185597703185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_68
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1405
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64422da0540587d0800000000000000
+      internalID: -2916920439103929233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_69
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1405
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fe8ae4e273befa0800000000000000
+      internalID: -5770457825517441218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_70
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1405
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ab15f3d91f17030800000000000000
+      internalID: 3490836843863325271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_71
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1405
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d405287415bdfa20800000000000000
+      internalID: 3097831218220434647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9aaf927bfef2d90800000000000000
+      internalID: -7120208915887117869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_73
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11afbe6991f078100800000000000000
+      internalID: 110073318474512913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_74
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c863277be4741610800000000000000
+      internalID: 1591025123033573577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_75
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0815cd7caa39e0830800000000000000
+      internalID: 4039328277504741760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_76
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2ccf7ee9cbb4870800000000000000
+      internalID: 8668229298487607998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_77
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aa9db413769e5a0800000000000000
+      internalID: -6491543926454244767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_78
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864722919d1361b10800000000000000
+      internalID: 1951802297011041384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_79
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1124
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88e7d2d1177c0700800000000000000
+      internalID: 507911776421537935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c291b36750c62b0800000000000000
+      internalID: -5590087032117842810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_81
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524cb34b03e265470800000000000000
+      internalID: 8382938543113880613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_82
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01e3c1ab6d1a1430800000000000000
+      internalID: 3754345587479404815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_83
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431050956b12ca870800000000000000
+      internalID: 8695362047606849844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_84
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9660843f652e690800000000000000
+      internalID: -7574396020398331413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_85
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ffca9e3ef2a4bc0800000000000000
+      internalID: -3798170679809081487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_86
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb77d3dda4d1e2bd0800000000000000
+      internalID: -2653150923098064961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_87
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 843
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffeae7c710bec160800000000000000
+      internalID: 7047764083066204155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70549731337de99b0800000000000000
+      internalID: -5071379516002581241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_89
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f2319401c34fcc0800000000000000
+      internalID: -3678248955011715215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_90
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c609be989cb4b0d50800000000000000
+      internalID: 6704535799245541484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_91
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697eeb61328db8370800000000000000
+      internalID: 8325985981341558678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_92
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ff1957df6783860800000000000000
+      internalID: 7509883209611607812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_93
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed290da20303a7c70800000000000000
+      internalID: 8969534591296639710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_94
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e2335edb2b41860800000000000000
+      internalID: 7499815808142618189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_95
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 562
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5891ca29369a9e0a0800000000000000
+      internalID: -6851759112939890299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eaf8a2711bcc990800000000000000
+      internalID: -7364316577601180046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_97
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243700eeafc4fedd0800000000000000
+      internalID: -2454658631275089086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_98
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003a606afad51aa10800000000000000
+      internalID: 1918917925222654720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_99
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7164a2dcf9ec07940800000000000000
+      internalID: 5291956747897554455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_100
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb765d7f438b53a00800000000000000
+      internalID: 735696651780712383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_101
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e8b7f3bd9f1c0b0800000000000000
+      internalID: -5710008132470862230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_102
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cc76d51bb37ecd0800000000000000
+      internalID: -2528987032782910449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_103
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 281
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a017e17f4b029b2c0800000000000000
+      internalID: -4415461998047891190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24aaae35d41e8b50800000000000000
+      internalID: 6597233410256315437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_105
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537e6075f562319e0800000000000000
+      internalID: -1651934447391021259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_106
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66277e0bfe7cad540800000000000000
+      internalID: 5033555365819019878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_107
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77de717dc9169620800000000000000
+      internalID: 2780438190110988157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_108
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a77ac4859bd69630800000000000000
+      internalID: 3933572759779178405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_109
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a369a175b036bfe0800000000000000
+      internalID: -1173697097029295194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_110
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a8afaba241650a0800000000000000
+      internalID: -6893300005885801898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InnocentLameKingbird-max-1mb_111
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 500
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0172af779b854b0800000000000000
+      internalID: -5451403423982874440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
